@@ -1,0 +1,23 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fdiaz79/friendfinder.git"
+  },
+  "author": "Fabian Diaz @fdiaz79",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fdiaz79/friendfinder/issues"
+  },
+  "homepage": "https://github.com/fdiaz79/friendfinder#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
